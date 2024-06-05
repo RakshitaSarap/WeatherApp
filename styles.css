@@ -1,0 +1,37 @@
+body{
+    background-color: #EAFDFC;
+}
+.display-6{
+    font-family: Segoe UI serif;
+    font-size: 42px;
+    text-align: center;
+}
+.table{
+    border: 2px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: #82AAE3;
+}
+.head{
+    background-color: #82AAE3;
+}
+.two{
+    background-color: #BFEAF5;;
+}
+.get{
+    -bs-btn-color: blue;
+    -bs-btn-bg: #0d6efd;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-border-color: #0a58ca;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5pxrgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
